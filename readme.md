@@ -3,7 +3,7 @@
 ## Team #54 : Better Team
 Devashni Priyadarshni, Julie Lam, Loranne Nasir
 
-## Idea
+# EMOTICONTEXT :D :( :-|
 Webpage Sentiment: A Google Chrome extension that analyzes the overall sentiment of the current webpage.
 
 ## Tech Stack
