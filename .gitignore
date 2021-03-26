@@ -1,2 +1,4 @@
+.env
+node_modules
 gcloud_apikey.json
 .env
