@@ -24,16 +24,16 @@ Emoticontext is a browser extension that uses the Google Cloud Natural Language 
 
 ### How it's built
 
-We created a Google Chrome browser extension and made requests to the Google Cloud Natural Language API to retrieve webpage sentiment values. We added interactivity, alerts, and sentiment-based icons by writing JavaScript scripts using Chrome APIs. 
+Created a Google Chrome browser extension and made requests to the Google Cloud Natural Language API to retrieve webpage sentiment values. We added interactivity, alerts, and sentiment-based icons by writing JavaScript scripts using Chrome APIs. 
 
 ### Challenges
 
-None of us had experience creating browser extensions and we were all unfamiliar with the Chrome APIs. Two of our team members come from a Python background and had minimal experience using JavaScript and Google Cloud. The learning curve was steep and the errors were plentiful, but we gained a lot from the experience! 
+No prior experience creating browser extensions. Unfamiliarity with the Chrome APIs. The learning curve was steep and the errors were plentiful, but we gained a lot from the experience! 
 
 ### Accomplishments
 
-We were able to scrape a webpage's text data, make the API call from the extension, and render extension icon changes based on webpage sentiment. 
+Scrape a webpage's text data, make the API call from the extension, and render extension icon changes based on webpage sentiment. 
 
 ### What's next for emoticontext
 
-We'd like to add features that detect fake news, abusive/offensive content, and other notes about a webpage that people should be aware of. We'd also like to expand the range of emotions detected (angry, silly, etc.), display an emotion only if the algorithm's certainty is above a given threshold, be able to parse different types of content (such as social media posts or comments sections), and make the extension more configurable with an options menu. For security purposes, we'd also want to eventually make API calls from our own back-end server.
+Would like to add features that detect fake news, abusive/offensive content, and other notes about a webpage that people should be aware of. We'd also like to expand the range of emotions detected (angry, silly, etc.), display an emotion only if the algorithm's certainty is above a given threshold, be able to parse different types of content (such as social media posts or comments sections), and make the extension more configurable with an options menu. For security purposes - want to eventually make API calls from our own back-end server.
